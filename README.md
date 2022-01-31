@@ -1,3 +1,2 @@
 # COVID-19
-
-[themeimage](/image/covid19.jpg)
+(/image/covid19.jpg)
